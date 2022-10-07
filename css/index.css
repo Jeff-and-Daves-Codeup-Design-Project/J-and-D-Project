@@ -1,6 +1,4 @@
 :root {
-    --font-Anton: 'Anton', sans-serif;
-    --font-Abel: 'Abel', sans-serif;
     --color-red: #e6563b;
     --color-orange-ish: #eb9d3a;
     --color-green: #7cb0gc;
@@ -9,7 +7,22 @@
     --color-dark-grey: #e6e6e6;
 }
 
+* {
+    border:red 1px solid;
+}
+
 .logo-sz {
     width:18px;
     height: 18px;
 }
+
+.use-anton {
+    font-family: 'Anton', sans-serif;
+}
+
+.use-abel {
+    font-family: 'Abel', sans-serif;
+
+}
+
+
