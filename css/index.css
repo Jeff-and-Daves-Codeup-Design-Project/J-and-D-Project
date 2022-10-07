@@ -8,3 +8,8 @@
     --color-light-grey: #f0f0f0;
     --color-dark-grey: #e6e6e6;
 }
+
+.logo-sz {
+    width:18px;
+    height: 18px;
+}
