@@ -1,6 +1,10 @@
-
-/*anton*/
-/*!*font-family: 'Anton', sans-serif;*! */
-
-/*abel*/
-/*font-family: 'Anton', sans-serif;*/
+:root {
+    --font-Anton: 'Anton', sans-serif;
+    --font-Abel: 'Abel', sans-serif;
+    --color-red: #e6563b;
+    --color-orange-ish: #eb9d3a;
+    --color-green: #7cb0gc;
+    --color-teal: #00aba9;
+    --color-light-grey: #f0f0f0;
+    --color-dark-grey: #e6e6e6;
+}
