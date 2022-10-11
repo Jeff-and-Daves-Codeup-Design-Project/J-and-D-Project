@@ -47,4 +47,40 @@ body {
     background-color: var(--color-teal);
 }
 
+.d1-card-logo {
+    height: 18px;
+    width: 18px;
+    font-family:'Anton';
+    color: black;
+    margin: auto 0;
+    background-color: var(--color-red);
+    border-radius: 9px;
+}
 
+.d2-card-logo {
+    height: 18px;
+    width: 18px;
+    font-family:'Anton';
+    color: black;
+    margin: auto 0;
+    background-color: var(--color-orange-ish);
+    border-radius: 9px;
+}
+.s-card-logo {
+    height: 18px;
+    width: 18px;
+    font-family:'Anton';
+    color: black;
+    margin: auto 0;
+    background-color: var(--color-green);
+    border-radius: 9px;
+}
+.h-card-logo {
+    height: 18px;
+    width: 18px;
+    font-family:'Anton';
+    color: black;
+    margin: auto 0;
+    background-color: var(--color-teal);
+    border-radius: 9px;
+}
