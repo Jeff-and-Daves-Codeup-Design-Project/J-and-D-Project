@@ -48,19 +48,3 @@ body {
 }
 
 
-/*==========*/
-.block {
-    text-align: center;
-    /*vertical-align: middle;*/
-}
-.circle {
-    border-radius: 90px;
-    height: 90px;
-    width: 90px;
-    display: table;
-    margin: 9px auto;
-}
-.circle p {
-    vertical-align: middle;
-    display: table-cell;
-}
