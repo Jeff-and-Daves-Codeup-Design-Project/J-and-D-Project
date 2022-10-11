@@ -7,9 +7,9 @@
     --color-dark-grey: #e6e6e6;
 }
 
-* {
-    border:red 1px solid;
-}
+/** {*/
+/*    border:red 1px solid;*/
+/*}*/
 
 body {
     background-color: var(--color-light-grey)
@@ -47,40 +47,17 @@ body {
     background-color: var(--color-teal);
 }
 
-.d1-card-logo {
-    height: 18px;
-    width: 18px;
-    font-family:'Anton';
-    color: black;
-    margin: auto 0;
-    background-color: var(--color-red);
-    border-radius: 9px;
+.dk-text {
+    color:black;
 }
 
-.d2-card-logo {
-    height: 18px;
-    width: 18px;
-    font-family:'Anton';
-    color: black;
-    margin: auto 0;
-    background-color: var(--color-orange-ish);
-    border-radius: 9px;
+.img-pd {
+    border: 5px solid var(--color-dark-grey);
 }
-.s-card-logo {
-    height: 18px;
-    width: 18px;
-    font-family:'Anton';
-    color: black;
-    margin: auto 0;
-    background-color: var(--color-green);
-    border-radius: 9px;
-}
-.h-card-logo {
-    height: 18px;
-    width: 18px;
-    font-family:'Anton';
-    color: black;
-    margin: auto 0;
-    background-color: var(--color-teal);
-    border-radius: 9px;
+
+ul
+{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
 }
