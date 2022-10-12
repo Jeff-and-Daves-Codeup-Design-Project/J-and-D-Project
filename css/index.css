@@ -7,14 +7,19 @@
     --color-dark-grey: #e6e6e6;
 }
 
+
 /** {*/
 /*    border:red 1px solid;*/
 /*}*/
 
 body {
-    background-color: var(--color-light-grey)
+    background-color: var(--color-light-grey);
 }
 
+#nav-cont {
+    background-color: var(--color-light-grey);
+    padding: 0;
+}
 
 .use-anton {
     font-family: 'Anton', sans-serif;
@@ -26,7 +31,6 @@ body {
 }
 
 .icon-button {
-    border:solid white 5px;
     height: 105px;
     width: 105px;
     font-family:'Anton';
@@ -39,6 +43,7 @@ body {
 }
 
 #icon-1 {
+    border:solid white 5px;
     background-color: var(--color-red);
 }
 
@@ -47,6 +52,7 @@ body {
 }
 
 #icon-2 {
+    border:solid white 5px;
     background-color: var(--color-orange-ish);
 }
 
@@ -55,6 +61,7 @@ body {
 }
 
 #icon-3 {
+    border:solid white 5px;
     background-color: var(--color-green);
 }
 
@@ -63,6 +70,7 @@ body {
 }
 
 #icon-4 {
+    border:solid white 5px;
     background-color: var(--color-teal);
 }
 
