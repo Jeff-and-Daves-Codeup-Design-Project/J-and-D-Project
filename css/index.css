@@ -7,18 +7,8 @@
     --color-dark-grey: #e6e6e6;
 }
 
-
-/** {*/
-/*    border:red 1px solid;*/
-/*}*/
-
 body {
     background-color: var(--color-light-grey);
-}
-
-#nav-cont {
-    background-color: var(--color-light-grey);
-    padding: 0;
 }
 
 .use-anton {
@@ -27,7 +17,11 @@ body {
 
 .use-abel {
     font-family: 'Abel', sans-serif;
+}
 
+#nav-cont {
+    background-color: var(--color-light-grey);
+    padding: 0;
 }
 
 .icon-button {
