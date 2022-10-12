@@ -34,15 +34,34 @@ body {
     margin: auto 0;
 }
 
+.icon-1 {
+    background-color: var(--color-red);
+}
+
 #icon-1 {
     background-color: var(--color-red);
 }
+
+.icon-2 {
+    background-color: var(--color-orange-ish);
+}
+
 #icon-2 {
     background-color: var(--color-orange-ish);
 }
+
+.icon-3 {
+    background-color: var(--color-green);
+}
+
 #icon-3 {
     background-color: var(--color-green);
 }
+
+.icon-4 {
+    background-color: var(--color-teal);
+}
+
 #icon-4 {
     background-color: var(--color-teal);
 }
@@ -54,6 +73,7 @@ body {
 .img-pd {
     border: 5px solid var(--color-dark-grey);
     padding: 0;
+    aspect-ratio: 462/310;
 }
 
 ul
